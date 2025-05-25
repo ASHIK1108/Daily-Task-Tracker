@@ -60,6 +60,6 @@ A web-based dashboard to log, view, and analyze daily tasks by users. Includes t
 
 - parseTime(): Converts string time (HH:mm) to JS Date object
 
--User dropdown: Shows user info and logout option
+- User dropdown: Shows user info and logout option
 
 
