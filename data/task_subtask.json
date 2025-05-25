@@ -1,0 +1,10 @@
+{
+            "Development": ["Frontend", "Backend", "Database", "API Integration", "Bug Fixing", "Code Review"],
+            "Testing": ["Unit Testing", "Integration Testing", "User Testing", "Performance Testing", "Bug Testing"],
+            "Design": ["UI Design", "UX Design", "Prototyping", "Wireframing", "Asset Creation"],
+            "Documentation": ["Technical Documentation", "User Manual", "API Documentation", "Project Documentation"],
+            "Meeting": ["Team Meeting", "Client Meeting", "Standup", "Review Meeting", "Planning Meeting"],
+            "Review": ["Code Review", "Design Review", "Document Review", "Project Review"],
+            "Research": ["Technology Research", "Market Research", "Competitor Analysis", "Feasibility Study"],
+            "Planning": ["Sprint Planning", "Project Planning", "Task Planning", "Resource Planning"]
+        }
