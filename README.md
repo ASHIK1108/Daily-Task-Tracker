@@ -38,27 +38,27 @@ A web-based dashboard to log, view, and analyze daily tasks by users. Includes t
 
 
 
-##📦 Setup Instructions
--Clone the repository or download the source.
+##  📦 Setup Instructions
+- Clone the repository or download the source.
 
--Make sure your server supports PHP (e.g., XAMPP, MAMP).
+- Make sure your server supports PHP (e.g., XAMPP, MAMP).
 
--Place the files in the htdocs or public folder.
+- Place the files in the htdocs or public folder.
 
--Start your PHP server and navigate to http://localhost/your-folder/.
+- Start your PHP server and navigate to http://localhost/your-folder/.
 
 
-##✅ Usage
--Users can log in and see their task stats.
+## ✅ Usage
+- Users can log in and see their task stats.
 
--Tasks can be added or loaded dynamically.
+- Tasks can be added or loaded dynamically.
 
--Stats update automatically: total tasks, completed count, hours spent today, and productivity.
+- Stats update automatically: total tasks, completed count, hours spent today, and productivity.
 
-##⚙️ Functions Overview
--loadActivities(): Fetches tasks and updates stats
+## ⚙️ Functions Overview
+- loadActivities(): Fetches tasks and updates stats
 
--parseTime(): Converts string time (HH:mm) to JS Date object
+- parseTime(): Converts string time (HH:mm) to JS Date object
 
 -User dropdown: Shows user info and logout option
 
